@@ -1,4 +1,4 @@
-# Afya Desk — Clinic & Pharmacy System
+# Afya Desk — Clinic & Pharmacy System 
 
 A standalone build of your clinic/pharmacy app. Data is saved in the browser's
 `localStorage` on whichever device/browser you use it on — it does not sync
